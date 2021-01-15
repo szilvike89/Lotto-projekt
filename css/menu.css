@@ -1,0 +1,39 @@
+body
+{
+    font-family: Arial;
+}
+#hatter
+{
+    width: 100%;
+}
+ul 
+{
+    list-style: none;
+    margin:-3.5% 0% 0% -0.5%;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    width: 30%;
+    background-color:#555;
+    position: fixed;
+}
+li a 
+{
+    display: block;
+    color:white;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    padding-left: 3%;
+    margin-right: 3%;
+    margin-left: 2%;
+    text-decoration: none;
+    text-shadow:2px,2px, black;
+    font-size: 1vw;
+    border-bottom: rgba(134, 130, 130, 0.61) solid 2px;
+
+}
+  
+li a:hover 
+{
+    background-color:rgba(124, 124, 124, 0.863);
+    color: white;
+}
