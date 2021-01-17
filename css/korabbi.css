@@ -27,7 +27,7 @@ th
     text-align: center;
     width: 11vw;
     height: 11vw;
-    background-image: url("golyo_piros.png");
+    background-image: url("../pictures/golyo_piros.png");
     background-size: 85%;
     background-repeat: no-repeat;
     background-position: center;
@@ -37,7 +37,7 @@ th
     text-align: center;
     width: 11vw;
     height: 11vw;
-    background-image: url("golyo_sarga.png");
+    background-image: url("../pictures/golyo_sarga.png");
     background-size: 85%;
     background-repeat: no-repeat;
     background-position: center;
@@ -47,7 +47,7 @@ th
     text-align: center;
     width: 11vw;
     height: 11vw;
-    background-image: url("golyo_zold.png");
+    background-image: url("../pictures/golyo_zold.png");
     background-size: 85%;
     background-repeat: no-repeat;
     background-position: center;
@@ -57,7 +57,7 @@ th
     text-align: center;
     width: 11vw;
     height: 11vw;
-    background-image: url("golyo_kek.png");
+    background-image: url("../pictures/golyo_kek.png");
     background-size: 85%;
     background-repeat: no-repeat;
     background-position: center;
@@ -67,7 +67,7 @@ th
     text-align: center;
     width: 11vw;
     height: 11vw;
-    background-image: url("golyo_lila.png");
+    background-image: url("../pictures/golyo_lila.png");
     background-size: 85%;
     background-repeat: no-repeat;
     background-position: center;
