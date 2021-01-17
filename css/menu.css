@@ -1,4 +1,3 @@
-
 body
 {
     font-family: Arial;
@@ -10,25 +9,24 @@ body
 ul 
 {
     list-style: none;
-    margin:-3.5% 0% 0% -0.5%;
+    margin:-3.5% 0% 0% -1%;
     padding-bottom: 0px;
     padding-left: 0px;
-    width: 30%;
+    width: 29vw;
     background-color:#555;
-    position:fixed;
-    overflow:auto;
+    float:left;
+    position: fixed;
 }
 li a 
 {
     display: block;
     color:white;
-    padding-bottom: 5%;
-    padding-top: 5%;
+    padding-bottom: 4.5%;
+    padding-top: 4.5%;
     padding-left: 3%;
     margin-right: 3%;
-    margin-left: 2%;
+    margin-left: 3%;
     text-decoration: none;
-    text-shadow:2px,2px, black;
     font-size: 1vw;
     border-bottom: rgba(134, 130, 130, 0.61) solid 2px;
 
