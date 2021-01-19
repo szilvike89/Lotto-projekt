@@ -15,24 +15,33 @@ ul
     width: 29vw;
     background-color:#555;
     float:left;
-    position: fixed;   
+    height: 40%;   
 }
 li a 
 {
     display: block;
     color:rgb(211, 208, 208);
-    padding-bottom: 4%;
-    padding-top: 4%;
+    padding-bottom: 3%;
+    padding-top: 3%;
     padding-left: 3%;
     margin-right: 2%;
     margin-left: 2%;
     text-decoration: none;
     font-size: 1vw;
-    border-bottom: rgba(134, 130, 130, 0.61) solid 2px;
 }
-  
 li a:hover 
 {
     background-color:rgba(124, 124, 124, 0.863);
     color: white;
+}
+.underline
+{
+    border-top: 1px solid #333333;
+    border-bottom: 1px solid rgba(124, 124, 124, 0.863);
+    border-left: none;
+    border-right: none;
+    border-style: inset;
+    border-radius: 1px 1px 1px 1px;
+    border-color: rgb(125,125,125);
+    width: 90%;
 }
