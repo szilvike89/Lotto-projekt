@@ -23,7 +23,7 @@ p
     text-decoration: none;
     margin-left: 30%;
 }
-a:link , :visited
+.flink:link , .flink:visited
 {
     color: black;
 }
