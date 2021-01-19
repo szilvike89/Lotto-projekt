@@ -24,3 +24,7 @@ p
     text-decoration: none;
     margin-left: 30%;
 }
+a:link , :visited
+{
+    color: black;
+}
